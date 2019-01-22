@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>Moerks Pale Ale</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Jesper Fussing M&#248;rk</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>30.0177059</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>75.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Brewer&#39;s Gold</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>8.5000000</ALPHA>
+ <AMOUNT>0.0400000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>30.0000000</TIME>
+ <NOTES>Primarily a bittering hop and commonly used in lighter style ales, although it works well in lagers.
+Used for: English ales, German styles, farmhouse ales.
+Aroma: Bittering hop with neutral aroma character, spice noted to its flavor and aroma
+Substitutes: Northdown, Northern Brewer (Germany), Galena, Bullion, Chinnok, Cascade (U.S.)
+Storage: Fair (60-70% AA after 6 months at 20 C)
+7-10% AA / 3.5-4.5% Beta</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.0000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>40.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Willamette</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>5.5000000</ALPHA>
+ <AMOUNT>0.0100000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>10.0000000</TIME>
+ <NOTES>Used for: Finishing American and British Ales
+Aroma: Mild, grassy, floral, slightly spicy
+Substitutes: Fuggles, East Kent Goldings
+Examples: Sierra Nevada Porter, Ballard Bitter</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.5000000</BETA>
+ <HSI>40.0000000</HSI>
+ <DISPLAY_AMOUNT>10.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>Pale Malt, Maris Otter</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>3.9999974</AMOUNT>
+ <YIELD>82.5000000</YIELD>
+ <COLOR>5.9100000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>United Kingdom</ORIGIN>
+ <SUPPLIER>Maris Otter</SUPPLIER>
+ <NOTES>Premium base malt from the UK.  Popular for many English styles of beer including ales, pale ales and bitters.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>3.0000000</MOISTURE>
+ <DIASTATIC_POWER>120.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.7000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>4.00 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0379500</POTENTIAL>
+ <DISPLAY_COLOR>5.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Pale Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Caraamber</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.4999997</AMOUNT>
+ <YIELD>75.0000000</YIELD>
+ <COLOR>59.1000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>US</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Adds body, color and improves head retention.
+Also called &#34;Crystal&#34; malt.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>13.2000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.50 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0345000</POTENTIAL>
+ <DISPLAY_COLOR>59.1 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ 
+ <YEASTS>
+<YEAST>
+ <NAME>British Cask Ale</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.1242088</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>Wyeast Labs</LABORATORY>
+ <PRODUCT_ID>1026</PRODUCT_ID>
+ <MIN_TEMPERATURE>17.2222222</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>22.2222222</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>75.5000000</ATTENUATION>
+ <NOTES>A great choice for any cask conditioned British Ale.  
+Produces nice malt profile with a hint of fruit. Finishes dry and slightly tart. </NOTES>
+ <BEST_FOR>British Ales</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>124.21 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>17.2 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>22.2 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>09 Dec 2003</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>British Golden Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Pale Commonwealth Beer</CATEGORY>
+ <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0380000</OG_MIN>
+ <OG_MAX>1.0530000</OG_MAX>
+ <FG_MIN>1.0060000</FG_MIN>
+ <FG_MAX>1.0120000</FG_MAX>
+ <IBU_MIN>20.0000000</IBU_MIN>
+ <IBU_MAX>45.0000000</IBU_MAX>
+ <COLOR_MIN>3.9400000</COLOR_MIN>
+ <COLOR_MAX>11.8200000</COLOR_MAX>
+ <CARB_MIN>2.0000000</CARB_MIN>
+ <CARB_MAX>2.8000000</CARB_MAX>
+ <ABV_MAX>5.0000000</ABV_MAX>
+ <ABV_MIN>3.8000000</ABV_MIN>
+ <NOTES>hop-forward, average-strength to moderately-strong pale bitter. Drinkability and a refreshing quality are critical components of the style. History: Modern golden ales were developed in England to take on strongly-marketed lagers. While it is difficult to identify the first, Hop Back&#39;s Summer Lightning, first brewed in 1986, is thought by many to have got the style off the ground. Style Comparison: More similar to an American Pale Ale than anything else, although it is often lower in alcohol and usually features British ingredients. Has no caramel and fewer esters compared to British bitters and pale ales. Dry as bitters but with less malt character to support the hops, giving a different balance. Often uses (and features) American hops, more so than most other modern British styles.</NOTES>
+ <PROFILE>Aroma: Hop aroma is moderately low to moderately high, and can use any variety of hops &#8211; floral, herbal, or earthy English hops and citrusy American hops are most common. Frequently a single hop varietal will be showcased. Little to no malt aroma; no caramel. Medium-low to low fruity aroma from the hops rather than esters. Little to no diacetyl.
+Appearance: Straw to golden in color. Good to brilliant clarity. Low to moderate white head. A low head is acceptable when carbonation is also low. Flavor: Medium to medium-high bitterness. Hop flavor is moderate to moderately high of any hop variety, although citrus flavors are increasingly common. Medium-low to low malt character, generally bready with perhaps a little biscuity flavor. Caramel flavors are typically absent. Little to no diacetyl. Hop bitterness and flavor should be pronounced. Moderately-low to low esters. Medium-dry to dry finish. Bitterness increases with alcohol level, but is always balanced. Mouthfeel: Light to medium body. Low to moderate carbonation on draught, although bottled commercial versions will be higher. Stronger versions may have a slight alcohol warmth, but this character should not be too high. Comments: Well-hopped, quenching beer with an emphasis on showcasing hops. Served colder than traditional bitters, this style was originally positioned as a refreshing summer beer, but is now often brewed year-round. Although early on the beers were brewed with English hops, increasingly American citrus-flavored hops are used. Golden Ales are also called Golden Bitters, Summer Ales, or British Blonde Ales. Can be found in cask, keg, and bottle.</PROFILE>
+ <INGREDIENTS>Low-color pale or lager malt acting as a blank canvas for the hop character. May use sugar adjuncts, corn or wheat. English hops frequently used, although citrusy American varietals are becoming more common. Somewhat clean-fermenting British yeast.</INGREDIENTS>
+ <EXAMPLES>Crouch Vale Brewers Gold, Fuller&#39;s Discovery, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Kelham Island Pale Rider, Morland Old Golden Hen, Oakham JHB</EXAMPLES>
+ <DISPLAY_OG_MIN>1.038 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.053 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.006 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.012 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.9 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>11.8 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,038-1,053 SG</OG_RANGE>
+ <FG_RANGE>1,006-1,012 SG</FG_RANGE>
+ <IBU_RANGE>20,0-45,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,00-2,80 Vols</CARB_RANGE>
+ <COLOR_RANGE>3,9-11,8 EBC</COLOR_RANGE>
+ <ABV_RANGE>3,80-5,00 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Moerks Brewery</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>30.0177059</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>35.0000000</TUN_VOLUME>
+ <TUN_WEIGHT>4.5359200</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.3000000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>2.0000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>6.3052983</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>2.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES></NOTES>
+ <DISPLAY_BOIL_SIZE>30.02 L</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 L</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>35.00 L</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>4.54 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 L</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>2.00 L</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>2.00 L</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 L</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Temperature Mash, 2 Step, Medium Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>160.0000000</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.3000000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES>Two step profile with a protein rest for mashes with unmodified grains or adjuncts.  Temperature mash for use when mashing in a brew pot over a heat source such as the stove.  Use heat to maintain desired temperature during the mash.</NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>4.54 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Protein Rest</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>11.7357270</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>50.0000000</STEP_TEMP>
+ <RAMP_TIME>2.0000000</RAMP_TIME>
+ <END_TEMP>50.0000000</END_TEMP>
+ <DESCRIPTION>Add 11,74 L of water at 54,0 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>54.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>50.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>11.74 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>45.0000000</STEP_TIME>
+ <STEP_TEMP>66.6666667</STEP_TEMP>
+ <RAMP_TIME>15.0000000</RAMP_TIME>
+ <END_TEMP>66.6666667</END_TEMP>
+ <DESCRIPTION>Heat to 66,7 C over 15 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>105.1 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>66.7 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>75.5555556</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>75.5555556</END_TEMP>
+ <DESCRIPTION>Heat to 75,6 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>83.3 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>75.6 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0460000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.0000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>4.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>19.4444444</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>19.4444444</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>18.3333333</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 98,23 g Corn Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Corn Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>15 Dec 2018</DATE>
+ <EST_OG>1.042 SG</EST_OG>
+ <EST_FG>1.010 SG</EST_FG>
+ <EST_COLOR>12.6 EBC</EST_COLOR>
+ <IBU>29.3 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>4.3 %</EST_ABV>
+ <ABV>4.7 %</ABV>
+ <ACTUAL_EFFICIENCY>61.7 %</ACTUAL_EFFICIENCY>
+ <CALORIES>427.1 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 L</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>30.02 L</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.046 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>19.4 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>19.4 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>Moerks American Lager</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Jesper Fussing M&#248;rk</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>30.0177059</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>75.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Saaz</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>3.7500000</ALPHA>
+ <AMOUNT>0.0250000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>45.0000000</TIME>
+ <NOTES>This traditional variety from the Czech Republic is grown on a limited basis in the U.S. A classic noble aroma that is famously used in Pilsners.
+Used for: Bohemian-style beers, Continental lagers, Wheats, Pilsener lagers, Ales, Pilsners
+Aroma: Seasoned herbal character
+Substitiutions: Czech Saaz, Polish Lublin, Sterling
+Storage: Poor
+2-6% AA / 3-4.5% Beta</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.7500000</BETA>
+ <HSI>50.0000000</HSI>
+ <DISPLAY_AMOUNT>25.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Amarillo</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>9.2000000</ALPHA>
+ <AMOUNT>0.0100000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>10.0000000</TIME>
+ <NOTES>Discovered and introduced by Vigil Gamache Farms Inc. in Washington State. Character similar to Cascade.  Often used as a late kettle or dry hop addition to American style Pale Ales and IPA&#8217;s due to its signature aroma characteristics. Used for both bitterness and aroma.
+Used for: IPAs, Ales
+Aroma: Intensely fruity (citrus, melon, and stone friuts), floral, tropical notes.
+Substitutes: Cascade, Centennial, Simcoe
+Storage: Good
+8-11% AA / 6-7% Beta</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>20.0000000</HSI>
+ <DISPLAY_AMOUNT>10.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>Pilsner (2 Row) Ger</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>4.4999971</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>3.9400000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Germany</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>German base for Pilsners and Bohemian Lagers</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>110.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.0000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>4.50 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>3.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Pilsner Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Caraaroma</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.4999997</AMOUNT>
+ <YIELD>75.0000000</YIELD>
+ <COLOR>256.1000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Germany</ORIGIN>
+ <SUPPLIER>Wyermann</SUPPLIER>
+ <NOTES>Very dark crystal malt - similar to a crystal 120 or Caramunich 120 malt.  Adds strong caramel flavor, red color, and malty aroma.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.7000000</PROTEIN>
+ <MAX_IN_BATCH>15.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.50 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0345000</POTENTIAL>
+ <DISPLAY_COLOR>256.1 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ 
+ <YEASTS>
+<YEAST>
+ <NAME>Pilsen Lager</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Lager</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.1242088</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>Wyeast Labs</LABORATORY>
+ <PRODUCT_ID>2007</PRODUCT_ID>
+ <MIN_TEMPERATURE>8.8888889</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>13.3333333</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>73.0000000</ATTENUATION>
+ <NOTES>Classic American pilsner strain.  Smooth with a malty flavor.  Dry and crisp fermentation.</NOTES>
+ <BEST_FOR>American Pilsner, Bohemian Pilsner, Light Lagers</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>124.21 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>8.9 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>13.3 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>14 Jun 2003</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>American Lager</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Standard American Beer</CATEGORY>
+ <CATEGORY_NUMBER>1</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+ <TYPE>Lager</TYPE>
+ <OG_MIN>1.0400000</OG_MIN>
+ <OG_MAX>1.0500000</OG_MAX>
+ <FG_MIN>1.0040000</FG_MIN>
+ <FG_MAX>1.0100000</FG_MAX>
+ <IBU_MIN>8.0000000</IBU_MIN>
+ <IBU_MAX>18.0000000</IBU_MAX>
+ <COLOR_MIN>3.9400000</COLOR_MIN>
+ <COLOR_MAX>7.8800000</COLOR_MAX>
+ <CARB_MIN>2.5000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>5.3000000</ABV_MAX>
+ <ABV_MIN>4.3000000</ABV_MIN>
+ <NOTES>Overall Impression: A very pale, highly-carbonated, light-bodied, well-attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing and thirst quenching drink. History: Although German immigrants had brewed traditional Pilsner-inspired lager beer in the United States since the mid-late 1800s, the modern American lager style was heavily influenced by Prohibition and World War II. Surviving breweries consolidated, expanded distribution, and heavily promoted a beer style that was appealing to a broad range of the population. Became the dominant beer style for many decades, and spawning many international rivals who would develop similarly bland products for the mass market supported by heavy advertising. Style Comparison: Stronger, more flavor and body than a Light American Lager. Less bitterness and flavor than an International Lager. Significantly less flavor, hops, and bitterness than traditional European Pilsners.</NOTES>
+ <PROFILE>Aroma: Low to no malt aroma, although it can be perceived as grainy, sweet or corn-like if present. Hop aroma may range from none to a light, spicy or floral hop presence. While a clean fermentation character is desirable, a light amount of yeast character (particularly a light apple character) is not a fault. Light DMS is also not a fault. Appearance: Very pale straw to medium yellow color. White, frothy head seldom persists. Very clear. Flavor: Relatively neutral palate with a crisp and dry finish and a moderately-low to low grainy or corn-like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to moderately-low levels, and can have a floral, spicy, or herbal quality (although often not strong enough to distinguish). Hop bitterness at low to medium-low level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character. Mouthfeel: Low to medium-low body. Very highly carbonated with slight carbonic bite on the tongue. Comments: Strong flavors are a fault. Often what non-craft beer drinkers expect to be served if they order beer in the United States. May be marketed as Pilsner beers outside of Europe, but should not be confused with traditional examples.</PROFILE>
+ <INGREDIENTS>Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.</INGREDIENTS>
+ <EXAMPLES>Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Pabst Blue Ribbon, Special Export</EXAMPLES>
+ <DISPLAY_OG_MIN>1.040 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.050 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.004 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.010 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.9 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>7.9 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,040-1,050 SG</OG_RANGE>
+ <FG_RANGE>1,004-1,010 SG</FG_RANGE>
+ <IBU_RANGE>8,0-18,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,50-2,90 Vols</CARB_RANGE>
+ <COLOR_RANGE>3,9-7,9 EBC</COLOR_RANGE>
+ <ABV_RANGE>4,30-5,30 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Moerks Brewery</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>30.0177059</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>35.0000000</TUN_VOLUME>
+ <TUN_WEIGHT>4.5359200</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.3000000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>2.0000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>6.3052983</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>2.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES></NOTES>
+ <DISPLAY_BOIL_SIZE>30.02 L</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 L</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>35.00 L</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>4.54 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 L</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>2.00 L</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>2.00 L</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 L</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Temperature Mash, 2 Step, Full Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>160.0000000</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.3000000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES>Two step profile with a protein rest for mashes with unmodified grains or adjuncts.  Temperature mash for use when mashing in a brew pot over a heat source such as the stove.  Use heat to maintain desired temperature during the mash.</NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>4.54 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Protein Rest</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>13.0396967</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>50.0000000</STEP_TEMP>
+ <RAMP_TIME>2.0000000</RAMP_TIME>
+ <END_TEMP>50.0000000</END_TEMP>
+ <DESCRIPTION>Add 13,04 L of water at 54,0 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>54.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>50.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>13.04 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>68.8888889</STEP_TEMP>
+ <RAMP_TIME>15.0000000</RAMP_TIME>
+ <END_TEMP>68.8888889</END_TEMP>
+ <DESCRIPTION>Heat to 68,9 C over 15 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>105.1 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>68.9 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>75.5555556</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>75.5555556</END_TEMP>
+ <DESCRIPTION>Heat to 75,6 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,608 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+ <INFUSE_TEMP>83.3 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>75.6 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0460000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>12.2222222</PRIMARY_TEMP>
+ <SECONDARY_AGE>3.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>16.6666667</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>15.5555556</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 123,52 g Corn Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Corn Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>15 Dec 2018</DATE>
+ <EST_OG>1.046 SG</EST_OG>
+ <EST_FG>1.014 SG</EST_FG>
+ <EST_COLOR>25.2 EBC</EST_COLOR>
+ <IBU>12.1 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>4.3 %</EST_ABV>
+ <ABV>4.7 %</ABV>
+ <ACTUAL_EFFICIENCY>56.4 %</ACTUAL_EFFICIENCY>
+ <CALORIES>427.1 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 L</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>30.02 L</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.046 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>12.2 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>16.7 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>15.6 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
